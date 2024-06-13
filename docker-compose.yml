@@ -1,0 +1,7 @@
+services:
+  farmacia-ecommerce:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - 3000:8080
