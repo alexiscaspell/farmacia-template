@@ -13,7 +13,7 @@ Farmacia Template es un template de aplicación de e-commerce para una farmacia,
 
     ```sh
     git clone https://github.com/alexiscaspell/farmacia-template.git
-    cd farmacia-app
+    cd farmacia-template
     ```
 
 2. Construye y levanta los contenedores utilizando Docker Compose:
