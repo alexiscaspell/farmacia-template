@@ -1,8 +1,8 @@
 export default {
-  ROOT: "/farmacia-template",
-  PRODUCTS: "/farmacia-template/products",
-  CART: "/farmacia-template/cart",
-  CHECKOUT: "/farmacia-template/checkout",
-  GRATITUDE: "/farmacia-template/gratitude",
-  ID: "/farmacia-template/:id",
+  ROOT: "<%= BASE_URL %>",
+  PRODUCTS: "<%= BASE_URL %>/products",
+  CART: "<%= BASE_URL %>/cart",
+  CHECKOUT: "<%= BASE_URL %>/checkout",
+  GRATITUDE: "<%= BASE_URL %>/gratitude",
+  ID: "<%= BASE_URL %>/:id",
 };
