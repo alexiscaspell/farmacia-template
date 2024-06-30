@@ -1,5 +1,5 @@
 export default {
-  ROOT: "/",
+  ROOT: process.env.ROOT_URL+"/",
   PRODUCTS: "/products",
   CART: "/cart",
   CHECKOUT: "/checkout",
