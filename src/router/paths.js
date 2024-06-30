@@ -1,5 +1,5 @@
 export default {
-  ROOT: "/",
+  ROOT: "<%= BASE_URL %>",
   PRODUCTS: "/products",
   CART: "/cart",
   CHECKOUT: "/checkout",
