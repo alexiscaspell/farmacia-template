@@ -1,8 +1,8 @@
 export default {
-  ROOT: process.env.BASE_URL,
-  PRODUCTS: process.env.BASE_URL+"/products",
-  CART: process.env.BASE_URL+"/cart",
-  CHECKOUT: process.env.BASE_URL+"/checkout",
-  GRATITUDE: process.env.BASE_URL+"/gratitude",
-  ID: process.env.BASE_URL+"/:id",
+  ROOT: "<%= BASE_URL %>",
+  PRODUCTS: "<%= BASE_URL %>/products",
+  CART: "<%= BASE_URL %>/cart",
+  CHECKOUT: "<%= BASE_URL %>/checkout",
+  GRATITUDE: "<%= BASE_URL %>/gratitude",
+  ID: "<%= BASE_URL %>/:id",
 };

@@ -10,8 +10,6 @@ COPY package*.json ./
 # Install the dependencies
 RUN npm install
 
-ENV PUBLIC_PATH /farmacia-template/
-
 # Copy the rest of the application source code
 COPY . .
 
