@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Preservativo de Látex Prime Súper Fino x 12 un",
+    "image_url": "img/prime.webp",
+    "description": "Para quiénes desean una sensación más natural con la misma seguridad y protección.",
+    "original_price": 12417,
+    "is_on_discount": true,
+    "discounted_price": 6208.5,
+    "stock_count": 3
+  },
+  {
+    "id": 2,
+    "name": "Shampoo Pantene Pro-V Miracles Colágeno Nutritivo 400 ml",
+    "image_url": "img/pantene.webp",
+    "description": "¿Buscás una reparación y nutrición profunda al toque para tu pelo? La colección Pantene Colágeno Nutre y Revitaliza te ayudará. Contiene colágeno, Pro-Vitamina B5 y aceite de macadamia que nutre profundamente tu pelo dejándolo suave, brillante y liviano al toque.",
+    "original_price": 7644,
+    "is_on_discount": false,
+    "discounted_price": null,
+    "stock_count": 18
+  },
+  {
+    "id": 3,
+    "name": "Suplemento Dietario Trb-Pharma Blue Vit B12 x 20 un",
+    "image_url": "img/bluevit.webp",
+    "description": "Blue Vit B12 es un suplemento dietario que aporta 2.000mcg de Cianocobalamina (Vitamina B12) por comprimido masticable, sabor ananá, 100% apto vegano. Esta es la dosis recomendada tanto para lograr una reposición de las reservas (déficit diagnosticado), como para el mantenimiento y prevención del déficit de Vitamina B12.",
+    "original_price": 6751,
+    "is_on_discount": true,
+    "discounted_price": 3375.5,
+    "stock_count": 64
+  },
+  {
+    "id": 4,
+    "name": "Pañales Pampers Deluxe Protection Hipoalergénico",
+    "image_url": "img/pampers.webp",
+    "description": "Pampers Deluxe Protection cuenta con la máxima absorción y suavidad de Pampers para proteger delicadamente la piel de tu bebé. Además, cuenta con indicador de humedad para saber cuando es el momento del cambio, materiales ultra respirables para que la piel de tu bebé se mantenga sequita, ayuda a prevenir irritaciones y son hipoalergénicos. Probá la nueva versión de Pampers Deluxe Protección y dale a tu bebé la más suave protección de Pampers.",
+    "original_price": 43075,
+    "is_on_discount": false,
+    "discounted_price": null,
+    "stock_count": 85
+  },
+  {
+    "id": 5,
+    "name": "Esmalte para Uñas Sally Hansen Good Kind Pure x 10 ml",
+    "image_url": "img/esmalte.webp",
+    "description": "Esmalte para uñas 100% vegano y hecho a base de plantas. Su fórmula es +16 free. ¡Animate a un esmalte libre de ingredientes dañinos y descubrí una aplicación perfecta gracias a un pincel natural hecho a base de plantas!",
+    "original_price": 10080,
+    "is_on_discount": false,
+    "discounted_price": null,
+    "stock_count": 82
+    },
+  {
+    "id": 5,
+    "name": "Crema Corporal Cicatricure 10% Urea x 250 g",
+    "image_url": "img/cicatricure.webp",
+    "description": "Crema corporal Cicatricure Reparación intensiva 10% urea. Hidrata en profundidad, fortaleciendo la barrera de la piel. Ayuda a prevenir la descamación.",
+    "original_price": 9537,
+    "is_on_discount": false,
+    "discounted_price": null,
+    "stock_count": 96
+    }
+]
